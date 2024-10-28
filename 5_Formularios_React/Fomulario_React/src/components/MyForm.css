@@ -1,0 +1,13 @@
+form{
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #2b2b2b;
+}
+
+input, textarea, select{
+    display: block;
+    margin-top: 10px;
+}
