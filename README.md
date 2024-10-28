@@ -9,3 +9,4 @@ Este repositório contém o conteúdo e exercícios desenvolvidos ao longo do cu
 Cada pasta representa um módulo ou projeto específico do curso. Sinta-se à vontade para explorar e adaptar o conteúdo para seus próprios estudos!
 
 > **Nota:** Este repositório é dedicado ao aprendizado e aprimoramento em React.
+> **Nota:** O conteúdo esta na branch Master.
