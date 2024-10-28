@@ -1,0 +1,88 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camisa",
+        "price": 59.9
+      },
+      {
+        "id": 2,
+        "name": "Calça vermelha",
+        "price": 90
+      },
+      {
+        "id": 3,
+        "name": "Boné aba reta",
+        "price": 29.9
+      },
+      {
+        "id": "87a7",
+        "name": "Camisa Regata",
+        "price": "39.9"
+      },
+      {
+        "id": "72d2",
+        "name": "Teste Carregamento",
+        "price": "20"
+      },
+      {
+        "id": "19ab",
+        "name": "teste Input",
+        "price": "10"
+      },
+      {
+        "id": "8439",
+        "name": "teste 2 Input",
+        "price": "9"
+      },
+      {
+        "id": "94cd",
+        "name": "Teste Custom hook",
+        "price": "10"
+      },
+      {
+        "id": "9ba7"
+      },
+      {
+        "id": "0734"
+      },
+      {
+        "id": "d78f"
+      },
+      {
+        "id": "5085",
+        "name": "Teste Refatorando",
+        "price": "1"
+      },
+      {
+        "id": "5aa1",
+        "name": "Teste Refatorando",
+        "price": "1"
+      },
+      {
+        "id": "daa8",
+        "name": "teste",
+        "price": "1"
+      },
+      {
+        "id": "57e5",
+        "name": "Camisa",
+        "price": "11.5"
+      },
+      {
+        "id": "b158",
+        "name": "Blusa de Frio",
+        "price": "200,00"
+      },
+      {
+        "id": "cb33",
+        "name": "teste",
+        "price": "1"
+      },
+      {
+        "id": "70d5",
+        "name": "teste2",
+        "price": "12"
+      }
+    ]
+  }

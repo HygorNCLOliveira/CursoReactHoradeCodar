@@ -1,0 +1,13 @@
+.form-control{
+    padding: 1rem;
+    display: grid;
+    gap: 10px;
+}
+label{
+    font-size: 1.5rem;
+    text-align: left;
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+}

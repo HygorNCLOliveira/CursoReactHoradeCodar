@@ -1,0 +1,18 @@
+div .NavBar{
+    padding: 5px 10px;
+    border: 1px solid #c0c0c0;
+    width: 400px;
+}
+
+.active {
+    border-bottom: 1px solid red;
+    color: red;
+}
+
+a{
+    margin: 10px;
+}
+
+a:hover{
+    color: red;
+}

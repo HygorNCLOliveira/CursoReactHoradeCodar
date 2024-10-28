@@ -1,0 +1,8 @@
+.title {
+    color: #48009b;
+    background-color: #a762f5;
+    text-shadow: 0 0 10px #cacaca;
+}
+.title span{
+    color: yellow;
+}
